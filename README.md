@@ -14,7 +14,8 @@ Programming isn't merely a job. It's a way of life. I'm motivated by the desire 
 
 Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
 
-| Currently Learning | NestJS, PostgreSQL |
+| Currently Learning | Email: ubairaza200@gmail.com
+Password: ubairaza200@gmail.comL |
 | ------------------ | --------- |
 
 <p align="center">
